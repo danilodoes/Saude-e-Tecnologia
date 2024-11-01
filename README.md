@@ -28,6 +28,6 @@ De qualquer forma, aqui aplico conceitos de animação em CSS nativo, afim de "b
 </p>
 
 <p align="center">
-  - MOBILE
+  - MOBILE  
   <img width="300" src="./toReadme/saudeetecnologiamobile.gif">
 </p>
