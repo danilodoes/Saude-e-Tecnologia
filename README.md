@@ -20,14 +20,14 @@ De qualquer forma, aqui aplico conceitos de animação em CSS nativo, afim de "b
 - SCSS
 - JS
 
-## Demo 📷
+## Demo Desktop📷
 
 <p align="center">
-  - DESKTOP
   <img width="900" src="./toReadme/saudeetecnologiadesktop.gif">
 </p>
 
+## Demo Mobile 📷
+
 <p align="center">
-  - MOBILE  
   <img width="300" src="./toReadme/saudeetecnologiamobile.gif">
 </p>
